@@ -1,5 +1,8 @@
 # Vendure Angular Storefront
 
+> [!NOTE]
+> This project is **community-maintained**. For a storefront starter maintained by the Vendure team, see the [Next.js Starter](https://github.com/vendure-ecommerce/nextjs-starter-vendure)
+
 This is an e-commerce storefront application which is designed to be used with the [Vendure ecommerce framework](https://github.com/vendure-ecommerce/vendure) as a back end.
 
 It is a progressive web application (PWA) which also uses Angular Universal for server-side rendering.
